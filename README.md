@@ -124,6 +124,12 @@ Add unit tests for any new or changed functionality. Lint and test your code.
 
 ## Version History
 
+#### Version 0.1.2
+
+* Installed eslint as dev dependency
+* Added ```run: yarn add react``` to ```.circleci/config.yml```
+* React is now a peer only dependency
+
 #### Version 0.1.1 
 
 * Updated documentation
