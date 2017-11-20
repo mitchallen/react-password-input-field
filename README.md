@@ -124,6 +124,10 @@ Add unit tests for any new or changed functionality. Lint and test your code.
 
 ## Version History
 
+#### Version 0.1.3
+
+* updated react peer dependency to alow for 16.x
+
 #### Version 0.1.2
 
 * Installed eslint as dev dependency
