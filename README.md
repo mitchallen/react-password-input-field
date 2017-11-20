@@ -124,9 +124,14 @@ Add unit tests for any new or changed functionality. Lint and test your code.
 
 ## Version History
 
+#### Version 0.1.4
+
+* CircleCI explicity installs react@15.6.2
+* Updated doc gen dependency
+
 #### Version 0.1.3
 
-* updated react peer dependency to alow for 16.x
+* updated react peer dependency to allow for 16.x
 
 #### Version 0.1.2
 
